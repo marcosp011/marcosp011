@@ -23,3 +23,5 @@
 
 ##### Technology makes me see a new world of possibilities and the chance to have a better future. That's what I seek. ![image](https://user-images.githubusercontent.com/87781256/176272790-8095f455-d3d8-408b-b72d-80579d87cf9e.png)
 
+![Snake animation](https://github.com/marcosp011/marcosp011/blob/output/github-contribution-grid-snake.svg)
+
